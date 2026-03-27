@@ -1,5 +1,5 @@
 """
-Author: Joon Sung Park (joonspk@stanford.edu)
+Author: Joon Sung Park (joonspk@stanford.edu)Please sign in.
 
 File: global_methods.py
 Description: Contains functions used throughout my projects.

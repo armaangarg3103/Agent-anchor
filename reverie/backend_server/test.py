@@ -15,7 +15,7 @@ from utils import *
 # import openai
 # openai.api_key = openai_api_key
 
-OLLAMA_BASE_URL = "http://localhost:11434"
+OLLAMA_BASE_URL = "http://127.0.0.1:11434"
 OLLAMA_GENERATE_URL = OLLAMA_BASE_URL + "/api/generate"
 OLLAMA_CHAT_MODEL = "gpt-oss:latest"
 
